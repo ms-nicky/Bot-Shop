@@ -5,6 +5,8 @@
 
 - Untuk Data Base Nomor Bot nya [http://github.com/ms-nicky/dbbot](http://github.com/ms-nicky/dbbot)
 
+- Untuk Password Dan Username [Username: danz](Password : simplebotz2025)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/ms-xploiter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ms-xploiter" height="30" width="40" /></a>
